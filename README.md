@@ -48,7 +48,7 @@ All data used in this analysis were publicly available:
    - Food inflation trends
 
 ✅ All cleaning and calculations were done in **Excel**.  
-🎨 Final visual analysis was presented using **Canva**.
+
 
 ---
 
